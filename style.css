@@ -2,11 +2,11 @@
     box-sizing: border-box;
 }
 .calc{
-    height: 360px;
+    height: 460px;
     width: 280px;
     border: 1px solid;
     margin: auto;
-    background-color: black;
+    background-color: rgb(180,218,245);
     border-radius: 10px;
     
 }
